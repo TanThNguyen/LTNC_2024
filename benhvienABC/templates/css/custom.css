@@ -1,0 +1,41 @@
+.mg-form{
+    margin-bottom: 15px;
+}
+
+.mg-btn{
+    margin-top: 15px;
+    width: 100%;
+}
+
+.error{
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+
+.left-margin{
+    margin:0 .5em 0 0;
+}
+  
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+  
+/* some changes in bootstrap modal */
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+  
+.modal-footer{
+    text-align: center !important;
+}
+
+.contents {
+        background: url(<?php echo $backgroundURL ?>) no-repeat center;
+        background-size: cover;
+        width: 100%;
+        height: 100vh;
+        /* opacity: 0.9; */
+    }
