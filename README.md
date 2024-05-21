@@ -6,6 +6,8 @@ SET PUBLIC 21/05/2024
 Link website:
 http://www.tmpweb.infinityfreeapp.com/benhvienABC/
 
+- tên đăng nhập:    abcde@gmail.com
+- mật khẩu:         0123456789
 ***
 
 Một số chức năng:
